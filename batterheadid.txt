@@ -1,0 +1,16 @@
+687d2478-7c8f-4804-9ca5-2bd26839da62    => tink
+
+bf0ca860-35bf-41ea-91d3-3662b77421d4   => ride
+
+7be7759a-528f-4fb5-893b-5c8a75ed8785   => kick
+
+
+806a8422-e101-425e-99e7-a6d0c7e273ea   => clap
+
+48dce6c6-fb51-4bc3-a886-ee7151b34d1a  => tom
+
+2bed730a-1d6b-4674-8e62-0579a2ad98dc  => hihat
+
+087eeaa7-97b7-4c68-9fe0-2cffee5be360  => snare
+
+b761ee21-c4a8-498d-8e1f-8a2bcaf009c3 => openhat
